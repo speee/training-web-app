@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Editor temporary files
+*~
+\#*\#
+.\#*
+.swp
+*.swp
+*.swo
+
+# Bundler
+/vendor/bundle
+/.bundle
+/work
+/coverage
+
+# Logs
+*.log
+
+# Local TLS exercise artifacts (also copy these rules to the exercise repository)
+*.pem
+*.key

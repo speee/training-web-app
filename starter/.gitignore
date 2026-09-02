@@ -1,0 +1,11 @@
+# Local TLS exercise artifacts
+*.pem
+*.key
+
+# Local dependencies and generated files
+/.bundle
+/vendor
+/coverage
+*.sqlite3
+*.sqlite3-*
+*.log
