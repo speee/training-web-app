@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 ruby file: ".ruby-version"
 
-gem "rack", "3.2.7"
+gem "rack", "3.2.8"
 # Auxiliary tools are not tied to specific releases by the curriculum.
 gem "rackup"
 gem "rake"
